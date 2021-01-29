@@ -1,0 +1,6 @@
+dotnet new -h
+2 projects
+  API app
+  Web App
+run the app 
+  dotnet run -p API/
